@@ -100,7 +100,7 @@ For inquiries or feedback, feel free to reach out:
 
 - **Author:** Burhan Anjum
 - **Email:** [burhan.anjum2005@gmail.com](mailto:burhan.najum2005@gmail.com)
-- **GitHub:** iihhii](https://github.com/IIHHII)
+- **GitHub:** [IIHHII](https://github.com/IIHHII)
 
 ---
 
